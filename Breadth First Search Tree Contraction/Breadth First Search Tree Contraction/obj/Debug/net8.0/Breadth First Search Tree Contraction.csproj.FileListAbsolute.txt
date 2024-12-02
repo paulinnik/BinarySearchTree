@@ -1,0 +1,14 @@
+C:\Users\pauli\OneDrive\Рабочий стол\Уник\С#\Breadth First Search Tree Contraction\Breadth First Search Tree Contraction\bin\Debug\net8.0\Breadth First Search Tree Contraction.exe
+C:\Users\pauli\OneDrive\Рабочий стол\Уник\С#\Breadth First Search Tree Contraction\Breadth First Search Tree Contraction\bin\Debug\net8.0\Breadth First Search Tree Contraction.deps.json
+C:\Users\pauli\OneDrive\Рабочий стол\Уник\С#\Breadth First Search Tree Contraction\Breadth First Search Tree Contraction\bin\Debug\net8.0\Breadth First Search Tree Contraction.runtimeconfig.json
+C:\Users\pauli\OneDrive\Рабочий стол\Уник\С#\Breadth First Search Tree Contraction\Breadth First Search Tree Contraction\bin\Debug\net8.0\Breadth First Search Tree Contraction.dll
+C:\Users\pauli\OneDrive\Рабочий стол\Уник\С#\Breadth First Search Tree Contraction\Breadth First Search Tree Contraction\bin\Debug\net8.0\Breadth First Search Tree Contraction.pdb
+C:\Users\pauli\OneDrive\Рабочий стол\Уник\С#\Breadth First Search Tree Contraction\Breadth First Search Tree Contraction\obj\Debug\net8.0\Breadth First Search Tree Contraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pauli\OneDrive\Рабочий стол\Уник\С#\Breadth First Search Tree Contraction\Breadth First Search Tree Contraction\obj\Debug\net8.0\Breadth First Search Tree Contraction.AssemblyInfoInputs.cache
+C:\Users\pauli\OneDrive\Рабочий стол\Уник\С#\Breadth First Search Tree Contraction\Breadth First Search Tree Contraction\obj\Debug\net8.0\Breadth First Search Tree Contraction.AssemblyInfo.cs
+C:\Users\pauli\OneDrive\Рабочий стол\Уник\С#\Breadth First Search Tree Contraction\Breadth First Search Tree Contraction\obj\Debug\net8.0\Breadth First Search Tree Contraction.csproj.CoreCompileInputs.cache
+C:\Users\pauli\OneDrive\Рабочий стол\Уник\С#\Breadth First Search Tree Contraction\Breadth First Search Tree Contraction\obj\Debug\net8.0\Breadth First Search Tree Contraction.dll
+C:\Users\pauli\OneDrive\Рабочий стол\Уник\С#\Breadth First Search Tree Contraction\Breadth First Search Tree Contraction\obj\Debug\net8.0\refint\Breadth First Search Tree Contraction.dll
+C:\Users\pauli\OneDrive\Рабочий стол\Уник\С#\Breadth First Search Tree Contraction\Breadth First Search Tree Contraction\obj\Debug\net8.0\Breadth First Search Tree Contraction.pdb
+C:\Users\pauli\OneDrive\Рабочий стол\Уник\С#\Breadth First Search Tree Contraction\Breadth First Search Tree Contraction\obj\Debug\net8.0\Breadth First Search Tree Contraction.genruntimeconfig.cache
+C:\Users\pauli\OneDrive\Рабочий стол\Уник\С#\Breadth First Search Tree Contraction\Breadth First Search Tree Contraction\obj\Debug\net8.0\ref\Breadth First Search Tree Contraction.dll

@@ -1,0 +1,14 @@
+C:\Users\pauli\OneDrive\Рабочий стол\Уник\С#\Depth First Search Tree Construction\Depth First Search Tree Construction\bin\Debug\net8.0\Depth First Search Tree Construction.exe
+C:\Users\pauli\OneDrive\Рабочий стол\Уник\С#\Depth First Search Tree Construction\Depth First Search Tree Construction\bin\Debug\net8.0\Depth First Search Tree Construction.deps.json
+C:\Users\pauli\OneDrive\Рабочий стол\Уник\С#\Depth First Search Tree Construction\Depth First Search Tree Construction\bin\Debug\net8.0\Depth First Search Tree Construction.runtimeconfig.json
+C:\Users\pauli\OneDrive\Рабочий стол\Уник\С#\Depth First Search Tree Construction\Depth First Search Tree Construction\bin\Debug\net8.0\Depth First Search Tree Construction.dll
+C:\Users\pauli\OneDrive\Рабочий стол\Уник\С#\Depth First Search Tree Construction\Depth First Search Tree Construction\bin\Debug\net8.0\Depth First Search Tree Construction.pdb
+C:\Users\pauli\OneDrive\Рабочий стол\Уник\С#\Depth First Search Tree Construction\Depth First Search Tree Construction\obj\Debug\net8.0\Depth First Search Tree Construction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pauli\OneDrive\Рабочий стол\Уник\С#\Depth First Search Tree Construction\Depth First Search Tree Construction\obj\Debug\net8.0\Depth First Search Tree Construction.AssemblyInfoInputs.cache
+C:\Users\pauli\OneDrive\Рабочий стол\Уник\С#\Depth First Search Tree Construction\Depth First Search Tree Construction\obj\Debug\net8.0\Depth First Search Tree Construction.AssemblyInfo.cs
+C:\Users\pauli\OneDrive\Рабочий стол\Уник\С#\Depth First Search Tree Construction\Depth First Search Tree Construction\obj\Debug\net8.0\Depth First Search Tree Construction.csproj.CoreCompileInputs.cache
+C:\Users\pauli\OneDrive\Рабочий стол\Уник\С#\Depth First Search Tree Construction\Depth First Search Tree Construction\obj\Debug\net8.0\Depth First Search Tree Construction.dll
+C:\Users\pauli\OneDrive\Рабочий стол\Уник\С#\Depth First Search Tree Construction\Depth First Search Tree Construction\obj\Debug\net8.0\refint\Depth First Search Tree Construction.dll
+C:\Users\pauli\OneDrive\Рабочий стол\Уник\С#\Depth First Search Tree Construction\Depth First Search Tree Construction\obj\Debug\net8.0\Depth First Search Tree Construction.pdb
+C:\Users\pauli\OneDrive\Рабочий стол\Уник\С#\Depth First Search Tree Construction\Depth First Search Tree Construction\obj\Debug\net8.0\Depth First Search Tree Construction.genruntimeconfig.cache
+C:\Users\pauli\OneDrive\Рабочий стол\Уник\С#\Depth First Search Tree Construction\Depth First Search Tree Construction\obj\Debug\net8.0\ref\Depth First Search Tree Construction.dll
